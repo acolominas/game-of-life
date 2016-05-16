@@ -2,6 +2,7 @@
 #include<vector>
 #include<stdlib.h>
 #include<cstdlib>
+#include <unistd.h>
 #include<ctime>
 #define NF 50
 #define NC 50
